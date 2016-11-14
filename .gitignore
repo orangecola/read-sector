@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 #image files
-.img
+*.img
